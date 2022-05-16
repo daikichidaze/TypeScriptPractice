@@ -1,1 +1,0 @@
-const displayName = name || getDefaultName();

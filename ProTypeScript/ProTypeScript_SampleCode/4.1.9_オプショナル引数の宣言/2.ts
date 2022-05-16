@@ -1,1 +1,0 @@
-console.log(toLowerOrUpper("Hello", undefined)); // "hello" と表示される

@@ -1,1 +1,0 @@
-const arr2 = nums.filter(x => x % 3 === 0);

@@ -1,1 +1,0 @@
-function repeat<string>(element: string, length: number): string[]

@@ -1,1 +1,0 @@
-console.log(Date.now()); // 現在時刻を表す数値が表示される

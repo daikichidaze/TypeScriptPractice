@@ -1,1 +1,0 @@
-let uhyo: "uhyo" | "john" = "uhyo";

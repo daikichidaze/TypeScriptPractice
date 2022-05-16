@@ -1,3 +1,0 @@
-type MyUserConstructor = {
-  new (): User;
-};

@@ -1,1 +1,0 @@
-import { tama, type Animal } from "./animal.js";
