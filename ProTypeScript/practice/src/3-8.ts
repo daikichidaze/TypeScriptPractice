@@ -1,4 +1,4 @@
-type User = {
+type User_ = {
   name: string;
   age: number;
   premiumUser: boolean;
@@ -29,7 +29,7 @@ Mary Sue,14,1
 //   });
 // }
 
-const users: User[] = data
+const users: User_[] = data
   .split("\n")
   .filter((line) => line != "")
   .map((line) => {
