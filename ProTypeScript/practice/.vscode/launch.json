@@ -4,7 +4,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch JavaScript @index.js",
+      "name": "Launch JavaScript",
       "program": "${workspaceFolder}/dist/*.js",
       "outFiles": ["${workspaceFolder}/dist/*.js"]
     },
